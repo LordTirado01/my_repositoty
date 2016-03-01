@@ -1,0 +1,45 @@
+{
+  "ProjectName": "sushi",
+  "ProjectGuid": "3416f2f1-3570-4c4e-8579-18860a33ba47",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.sushi",
+  "DisplayName": "sushi",
+  "Author": "",
+  "Description": "sushi",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{72409eff-f8a9-4b8a-8686-40b0d560d509}",
+  "WP8ProductID": "{c69d677d-fad7-4961-964b-b5965e8d7854}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.sushi",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
